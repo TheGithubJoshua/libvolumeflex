@@ -1,0 +1,88 @@
+/Users/joshua/libflexpoom/.theos/obj/debug/arm64/FLEX/Classes/Core/Controllers/FLEXNavigationController.m.a57b164f.o: \
+  FLEX/Classes/Core/Controllers/FLEXNavigationController.m \
+  /Users/joshua/theos/Prefix.pch \
+  FLEX/Classes/Core/Controllers/FLEXNavigationController.h \
+  /Users/joshua/theos/vendor/include/libhooker/module.modulemap \
+  /Users/joshua/theos/vendor/include/AppList/module.modulemap \
+  /Users/joshua/theos/vendor/include/rocketbootstrap/module.modulemap \
+  /Users/joshua/theos/vendor/include/Flipswitch/module.modulemap \
+  /Users/joshua/theos/vendor/include/libundirect/module.modulemap \
+  /Users/joshua/theos/vendor/include/libactivator/module.modulemap \
+  /Users/joshua/theos/vendor/include/libprefs/module.modulemap \
+  /Users/joshua/theos/vendor/include/Preferences/module.modulemap \
+  FLEX/Classes/ExplorerInterface/FLEXExplorerViewController.h \
+  FLEX/Classes/Headers/FLEXExplorerToolbar.h \
+  FLEX/Classes/Headers/FLEXObjectExplorerFactory.h \
+  FLEX/Classes/Headers/FLEXGlobalsEntry.h \
+  FLEX/Classes/Headers/FLEXObjectExplorerViewController.h \
+  FLEX/Classes/Headers/FLEXFilteringTableViewController.h \
+  FLEX/Classes/Headers/FLEXTableViewController.h \
+  FLEX/Classes/Headers/FLEXTableView.h \
+  FLEX/Classes/Headers/FLEXObjectExplorer.h \
+  FLEX/Classes/Headers/FLEXRuntime+UIKitHelpers.h \
+  FLEX/Classes/Headers/FLEXProperty.h \
+  FLEX/Classes/Headers/FLEXRuntimeConstants.h \
+  FLEX/Classes/Headers/FLEXIvar.h FLEX/Classes/Headers/FLEXMethod.h \
+  FLEX/Classes/Headers/FLEXMethodBase.h \
+  FLEX/Classes/Headers/FLEXProtocol.h \
+  FLEX/Classes/Headers/FLEXTableViewSection.h \
+  FLEX/Classes/Headers/NSArray+FLEX.h \
+  FLEX/Classes/ExplorerInterface/Tabs/FLEXTabList.h
+
+/Users/joshua/theos/Prefix.pch:
+
+FLEX/Classes/Core/Controllers/FLEXNavigationController.h:
+
+/Users/joshua/theos/vendor/include/libhooker/module.modulemap:
+
+/Users/joshua/theos/vendor/include/AppList/module.modulemap:
+
+/Users/joshua/theos/vendor/include/rocketbootstrap/module.modulemap:
+
+/Users/joshua/theos/vendor/include/Flipswitch/module.modulemap:
+
+/Users/joshua/theos/vendor/include/libundirect/module.modulemap:
+
+/Users/joshua/theos/vendor/include/libactivator/module.modulemap:
+
+/Users/joshua/theos/vendor/include/libprefs/module.modulemap:
+
+/Users/joshua/theos/vendor/include/Preferences/module.modulemap:
+
+FLEX/Classes/ExplorerInterface/FLEXExplorerViewController.h:
+
+FLEX/Classes/Headers/FLEXExplorerToolbar.h:
+
+FLEX/Classes/Headers/FLEXObjectExplorerFactory.h:
+
+FLEX/Classes/Headers/FLEXGlobalsEntry.h:
+
+FLEX/Classes/Headers/FLEXObjectExplorerViewController.h:
+
+FLEX/Classes/Headers/FLEXFilteringTableViewController.h:
+
+FLEX/Classes/Headers/FLEXTableViewController.h:
+
+FLEX/Classes/Headers/FLEXTableView.h:
+
+FLEX/Classes/Headers/FLEXObjectExplorer.h:
+
+FLEX/Classes/Headers/FLEXRuntime+UIKitHelpers.h:
+
+FLEX/Classes/Headers/FLEXProperty.h:
+
+FLEX/Classes/Headers/FLEXRuntimeConstants.h:
+
+FLEX/Classes/Headers/FLEXIvar.h:
+
+FLEX/Classes/Headers/FLEXMethod.h:
+
+FLEX/Classes/Headers/FLEXMethodBase.h:
+
+FLEX/Classes/Headers/FLEXProtocol.h:
+
+FLEX/Classes/Headers/FLEXTableViewSection.h:
+
+FLEX/Classes/Headers/NSArray+FLEX.h:
+
+FLEX/Classes/ExplorerInterface/Tabs/FLEXTabList.h:
