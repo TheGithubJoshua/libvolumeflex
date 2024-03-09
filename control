@@ -1,7 +1,8 @@
 Package: libvolumeflex
 Name: libFLEX
 Pre-Depends: firmware (>= 9.0)
-Depends: 
+Depends:
+Conflicts: libflex
 Version: 4.7.0~b4
 Architecture: iphoneos-arm
 Description: A library for Flipboard Explorer.
