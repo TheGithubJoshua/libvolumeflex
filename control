@@ -1,4 +1,4 @@
-Package: libflex
+Package: libvolumeflex
 Name: libVolumeFLEX
 Pre-Depends: firmware (>= 9.0)
 Depends:
