@@ -1,0 +1,41 @@
+/Users/joshua/libvolumeflex/.theos/obj/arm64e/FLEX/Classes/Core/FLEXSingleRowSection.m.61a00145.o: \
+  FLEX/Classes/Core/FLEXSingleRowSection.m \
+  /Users/joshua/theos/Prefix.pch \
+  FLEX/Classes/Core/FLEXSingleRowSection.h \
+  FLEX/Classes/Core/FLEXTableViewSection.h \
+  /Users/joshua/theos/vendor/include/libhooker/module.modulemap \
+  /Users/joshua/theos/vendor/include/AppList/module.modulemap \
+  /Users/joshua/theos/vendor/include/rocketbootstrap/module.modulemap \
+  /Users/joshua/theos/vendor/include/Flipswitch/module.modulemap \
+  /Users/joshua/theos/vendor/include/libundirect/module.modulemap \
+  /Users/joshua/theos/vendor/include/libactivator/module.modulemap \
+  /Users/joshua/theos/vendor/include/libprefs/module.modulemap \
+  /Users/joshua/theos/vendor/include/Preferences/module.modulemap \
+  FLEX/Classes/Headers/NSArray+FLEX.h \
+  FLEX/Classes/Headers/FLEXTableView.h
+
+/Users/joshua/theos/Prefix.pch:
+
+FLEX/Classes/Core/FLEXSingleRowSection.h:
+
+FLEX/Classes/Core/FLEXTableViewSection.h:
+
+/Users/joshua/theos/vendor/include/libhooker/module.modulemap:
+
+/Users/joshua/theos/vendor/include/AppList/module.modulemap:
+
+/Users/joshua/theos/vendor/include/rocketbootstrap/module.modulemap:
+
+/Users/joshua/theos/vendor/include/Flipswitch/module.modulemap:
+
+/Users/joshua/theos/vendor/include/libundirect/module.modulemap:
+
+/Users/joshua/theos/vendor/include/libactivator/module.modulemap:
+
+/Users/joshua/theos/vendor/include/libprefs/module.modulemap:
+
+/Users/joshua/theos/vendor/include/Preferences/module.modulemap:
+
+FLEX/Classes/Headers/NSArray+FLEX.h:
+
+FLEX/Classes/Headers/FLEXTableView.h:
